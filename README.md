@@ -1,3 +1,4 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="30"/> Aha! You found me</h1>
 ### Hi there 👋
 
 <!--
