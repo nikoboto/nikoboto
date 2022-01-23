@@ -1,9 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="30"/> Hi there! Am I <i>sus</i> to you? </h1>
 ### Am I sus to you? 
 
-[![Raykei's GitHub stats](https://github-readme-stats.vercel.app/api?username=raykei)](https://github.com/raykei/github-readme-stats)
+[![Raykei's GitHub stats](https://github-readme-stats.vercel.app/api?username=raykei&show_icons=true)](https://github.com/raykei/github-readme-stats)
 
 
+
+![Snake animation](https://github.com/Raykei/Raykei/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Raykei/Raykei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
