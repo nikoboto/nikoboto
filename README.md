@@ -2,7 +2,7 @@
 Allow me to introduce myself!
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raykei&theme=tokyonight&show_icons=true)](https://github.com/raykei/github-readme-stats"/>
 
-- 👽 My name is Nicole Pérez and my nickname always used is **Raykei**
+- 👽 My name is Nicole Pérez and my nickname always used   is **Raykei**
 - 🏖️ I'm from Peru, living in Lima
 
 - 🤖 Currently studying mechatronics engineering at PUCP
@@ -10,7 +10,7 @@ Allow me to introduce myself!
 - 🌱 Right now I’m reading **Clean Code**
 <br />
 
-*“To progress again, man must remake himself. And he cannot remake himself without suffering. For he is both the marble and the sculptor. In order to uncover his true visage he must shatter his own substance with heavy blows of his hammer.”*
+> *“To progress again, man must remake himself. And he cannot remake himself without suffering. For he is both the marble and the sculptor. In order to uncover his true visage he must shatter his own substance with heavy blows of his hammer.”*
 
 
 ### 🖥️ OS
