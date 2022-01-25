@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="30"/> Hi there! Am I <i>sus</i> to you? </h1>
-### Work in progress :) 
+Allow me to introduce myself! My name is Nicole Pérez and I'm a mechatronics engineering student. I'm from Peru, living in Lima and currently studying at PUCP.
 
 [![Raykei's GitHub stats](https://github-readme-stats.vercel.app/api?username=raykei&theme=tokyonight&show_icons=true)](https://github.com/raykei/github-readme-stats)
 
