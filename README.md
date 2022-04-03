@@ -7,7 +7,7 @@ Allow me to introduce myself!
 
 - 🤖 Currently studying mechatronics engineering at PUCP
 
-- 🌱 Right now I’m reading **Clean Code**
+- 🌱 Right now I’m reading **The Magic of Thinking Big**
 <br />
 
 > *“To progress again, man must remake himself. And he cannot remake himself without suffering. For he is both the marble and the sculptor. In order to uncover his true visage he must shatter his own substance with heavy blows of his hammer.”*
