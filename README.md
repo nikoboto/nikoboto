@@ -2,7 +2,7 @@
 Allow me to introduce myself!
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raykei&theme=tokyonight&show_icons=true)](https://github.com/raykei/github-readme-stats"/>
 
-- 👽 My name is Nicole and my nickname always used is **Raykei**
+- 👽 My name is Nicole and my nickname always used is    **Raykei**
 - 🏖️ I'm from Peru, living in Lima
 
 - 🤖 Currently studying mechatronics engineering at PUCP
