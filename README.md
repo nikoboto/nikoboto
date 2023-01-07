@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="30"/> Hi there! Am I <i>sus</i> to you? </h1>
 Allow me to introduce myself!
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raykei&theme=tokyonight&show_icons=true)](https://github.com/raykei/github-readme-stats"/>
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=raykei&theme=tokyonight&show_icons=true)](https://github.com/raykei/github-readme-stats"/>
 
 
 
