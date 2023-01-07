@@ -2,12 +2,11 @@
 Allow me to introduce myself!
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raykei&theme=tokyonight&show_icons=true)](https://github.com/raykei/github-readme-stats"/>
 
-- 👽 My name is Nicole and my nickname always used is    **Raykei**
 - 🏖️ I'm from Peru, living in Lima
 
 - 🤖 Currently studying mechatronics engineering at PUCP
 
-- 🌱 Right now I’m reading **The Magic of Thinking Big**
+- 🌱 Right now I’m reading **The Almanack Of Naval Ravikant**
 <br />
 
 > *“To progress again, man must remake himself. And he cannot remake himself without suffering. For he is both the marble and the sculptor. In order to uncover his true visage he must shatter his own substance with heavy blows of his hammer.”*
