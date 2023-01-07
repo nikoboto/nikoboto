@@ -27,8 +27,6 @@ Allow me to introduce myself!
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raykei)](https://github.com/Raykei/github-readme-stats)
-
-![Snake animation](https://github.com/Raykei/Raykei/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Raykei/Raykei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
