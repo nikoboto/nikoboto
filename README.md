@@ -21,6 +21,7 @@ Allow me to introduce myself!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-100000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=ffffff)
 ### 🛠️ Tools
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
