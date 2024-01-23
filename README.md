@@ -30,7 +30,7 @@ Allow me to introduce myself!
 
 
 
-[![nikobot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikoboto)](https://github.com/nikoboto/github-readme-stats)
+[![nikobot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raykei)](https://github.com/nikoboto/github-readme-stats)
 <!--
 **Raykei/Raykei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
